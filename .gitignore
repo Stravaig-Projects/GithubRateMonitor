@@ -6,6 +6,8 @@
 # Mac files
 .DS_Store
 
+app/
+
 docs/build/
 docs/source/_build
 
